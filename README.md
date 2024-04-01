@@ -6,4 +6,5 @@
 
     - Java 17
         - Records - [Mastering Java Records and Immutability in Java](https://blog.stackademic.com/mastering-java-records-and-immutability-in-java-60f58e80a618)
-        - [Exceptions handling]  (https://www.digitalocean.com/community/tutorials/exception-handling-in-java)
+        - Exceptions handling:  https://www.digitalocean.com/community/tutorials/exception-handling-in-java
+    
